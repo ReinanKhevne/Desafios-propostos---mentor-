@@ -25,6 +25,7 @@ body {
 }
 
 .card-conteiner {
+    box-shadow: 0px 11px 14px 1px #757da244;
     border-radius: 15px;
     background-color: #fff;
     height: 560px;
@@ -34,13 +35,14 @@ body {
     left: 35%;
 }
 
-#img {
+#img-principal {
     width: 400px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
 
 .card-conteiner h1 {
+    color: #2b3651;
     font-family: var(--fonth1);
     font-size: 20px;
     text-align: center;
@@ -49,9 +51,89 @@ body {
 }
 
 .card-conteiner p {
-    padding: 15px 30px;
+    color: #757da2;
+    padding: 15px 30px 20px 30px;
     font-family: var(--fonth1);
     font-size: 16px;
     text-align: center;
 }
 
+.plan {
+    position: relative;
+    background-color: #d6e1ff4b;
+    height: 75px;
+    margin: 3px 26px;
+    border-radius: 14px;
+}
+
+.plan a {    /*estilo do change*/
+    color: #382ae1;
+    position: absolute;
+    right: 8%;
+    top: 40%;
+    font-weight: bold;
+    font-family: var(--fonth1);
+    font-size: 14px;
+}
+
+.plan a:hover {
+    color: #767cf1;
+    text-decoration: none;
+}
+
+.preco h2 { 
+    font-family: var(--fonth1);
+    color: #2b3651;
+    position: absolute;
+    top: 20%;
+    left: 25%;                    
+    font-size: 16px;
+}
+
+.preco p {
+    font-family: var(--fonth1);
+    color: #757da2;
+    position: absolute;
+    top: 33%;
+    left: 17%; 
+    font-size: 16px;
+}
+
+
+#img-music {
+    padding-top: 15px;
+    padding-left: 20px;
+
+}
+
+.botao {
+    height: 50px;
+    background-color: #382ae1;
+    margin: 25px 26px 22px 26px;
+    border-radius: 15px;
+    box-shadow: 0px 7px 14px 1px #757da2d2;
+    
+}
+
+.botao:hover {
+    background-color: #767cf1;
+}
+
+.botao p {
+    font-family: var(--fonth1);
+    color: #fff;
+    font-weight: bold;
+}
+
+#cancel {
+    color: #757da2;
+    padding-left: 150px;
+    font-family: var(--fonth1);
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#cancel:hover {
+    color: #2b3651;
+}

@@ -12,9 +12,10 @@
 }
 
 body {
+    min-height: 100vh;
     background-image: url(images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
-    background-position: center top;
+    
 }
 
 .lente {
@@ -142,4 +143,55 @@ body {
 
 #cancel:hover {
     color: #2b3651;
+}
+
+/*Reponsividade Mobile*/
+
+@media (max-width: 930px) {
+    
+    .card-conteiner {
+        position: absolute;
+        left: 30%; 
+    } 
+}
+
+@media (max-width: 740px) {
+    .card-conteiner {
+        position: absolute;
+        left: 10%;
+    }
+}
+
+@media (max-width: 496px) {
+    .card-conteiner {
+        width: 375px;
+       
+    }
+
+    #img-principal {
+        width: 375px;
+    }
+}
+
+@media (max-width: 450px) {
+    .card-conteiner {
+        width: 320px;
+       
+    }
+
+    #botao-link {
+        padding-left: 55px;
+    }
+
+    #cancel {
+        padding-left: 110px;
+    }
+
+    #img-principal {
+        width: 320px;
+    }
+
+    body {
+        background-image: url(images/pattern-background-mobile.svg);
+    }
 }

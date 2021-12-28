@@ -2,10 +2,10 @@
 
 ## Resumo
 
-O projeto se resume em um cartão de final de pedido ralizado pelo cliente. O card possui botões interativos e indicativos pata sua respectiva função, além de está adptável a telas menores como, por exemplo, mobile. 
+O projeto card é resultado da resolução de um desafio idealizado por Front-end-Mentor (Link no final da página), e desenvolvido por Reinan Khevne com objetivo de praticar os conehcimentos adquiridos e desenvolver uma maior perícia nas tecnologias usadas no projeto.  
 
 
-<img src="images/Card.png" alt="Card de final do pedido">
+<img src="../images/Card.png" alt="Card de final do pedido">
 
 
 ## Tecnologias usadas

@@ -2,7 +2,7 @@
 
 ## Resumo
 
-O projeto card é resultado da resolução de um desafio idealizado por <strong>Front-end-Mentor</strong> (Link no final da página), e desenvolvido por Reinan Khevne com objetivo de praticar os conehcimentos adquiridos e desenvolver uma maior perícia nas tecnologias usadas no projeto.  
+O projeto card é resultado da resolução de um desafio idealizado por <strong>Front-end-Mentor</strong> (Link no final da página) e desenvolvido por Reinan Khevne, com objetivo de praticar os conhecimentos adquiridos e desenvolver uma maior perícia nas tecnologias usadas no projeto.  
 
 
 <img src="https://raw.githubusercontent.com/ReinanKhevne/Projeto-Card/main/images/projeto-card-desktop-800.png" alt="Project-Card-Desktop">
@@ -16,7 +16,7 @@ O projeto card é resultado da resolução de um desafio idealizado por <strong>
 
 ## Como vizualizar a página?
 
-Para visualizar o projeto finalizado basta clicar no link abaixo:
+Para visualizar a página do projeto finalizado, basta clicar em <strong>Projeto Card</strong> abaixo:
 
 
 

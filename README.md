@@ -20,7 +20,7 @@ Para visualizar a página do projeto finalizado, basta clicar em <strong>Projeto
 
 
 
-<a href="https://reinankhevne.github.io/Projeto-Card/">Projeto Card</a>
+<a href="https://reinankhevne.github.io/Projeto-Card/" target="_blank">Projeto Card</a>
 
 
 ## Idealização

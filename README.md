@@ -25,6 +25,6 @@ Para visualizar a página do projeto finalizado, basta clicar em <strong>Projeto
 
 ## Idealização
 
-Projeto idealizado por <a href="https://frontendmentor.io/">Front-End-Mentor</a> em forma de dasafio e desenvolvido por <a href="https://github.com/ReinanKhevne">ReinanKhevne</a>. 
+Projeto idealizado por <a href="https://frontendmentor.io/">Front-End-Mentor</a> em forma de dasafio e desenvolvido por <a href="https://www.linkedin.com/in/reinan-khevne-b57bba228/">ReinanKhevne</a>. 
 
 

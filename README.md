@@ -1,4 +1,4 @@
-#  Projeto - Card resumo de pedido
+#  Projeto - Cartão resumo de pedido
 
 ## Resumo
 
